@@ -113,7 +113,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/CYBER AMBRO/TBomb.git
 cd TBomb
 ```
 
